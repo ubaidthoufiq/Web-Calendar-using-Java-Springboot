@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Defining_classes-Building_a_simple_calculator_and_testing_with_input" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Defining classes/Building a simple calculator and testing with input" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Web Calendar" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Building a simple calculator and testing with input">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Building a simple calculator and testing with input/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Building a simple calculator and testing with input/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Building a simple calculator and testing with input/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

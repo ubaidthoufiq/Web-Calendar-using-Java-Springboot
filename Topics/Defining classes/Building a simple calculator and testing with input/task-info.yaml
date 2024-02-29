@@ -1,0 +1,26 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+              int x = scanner.nextInt();
+              int y = scanner.nextInt();
+              // Create a Calculator object and use it to add x and y
+      
+          }
+      }
+      
+      // Create your Calculator class below
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/42331#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 29 Feb 2024 18:10:52 UTC"
+record: -1
+submission_language: java17
